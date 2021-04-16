@@ -6,7 +6,7 @@ error_reporting(E_ALL);
 
 $pagename = 'hold';
 
-$newFileName = './folder/'.$pagename.".php";
+$newFileName = './folder/'.$filenam.".php";
 $newFileContent = '<?php echo "Anything..."; ?>';
 
 
